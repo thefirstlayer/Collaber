@@ -1,0 +1,11 @@
+{
+	"geode": "5.11.1",
+	"gd": { "win": "2.2081", "android": "2.2081" },
+	"id": "mint.freecollab",
+	"name": "FreeCollab",
+	"version": "v0.2.0",
+	"developer": "mint",
+	"description": "Edit a level with friends at the same time. Open the editor pause menu and press Collab.",
+	"repository": "https://github.com/buttonclickered/FreeCollab",
+	"tags": ["editor", "online"]
+}
